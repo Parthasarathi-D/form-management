@@ -10,7 +10,7 @@ Displays a list of all submissions.
 Allows navigation through submissions.
 Provides options to view, delete, and modify each submission.
 
-![image](https://github.com/Parthasarathi-D/form-management/issues/2#issue-2366924091)
+![341836224-cb559376-dbb3-4e26-94de-9298a348dd55](https://github.com/Parthasarathi-D/form-management/assets/141064484/55652353-c95e-4a96-92c9-656b44bf5f72)
 ### 2. New Submission
 Opens a form to enter details for a new submission.
 Validates and saves the new submission to the backend server.
